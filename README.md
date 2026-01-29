@@ -1,4 +1,4 @@
-## Hey, I'm Rohit 👋
+## Hey, I'm Rohit <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px">
 
 > Consistency over motivation.
 
