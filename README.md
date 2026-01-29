@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hey, I'm Rohit 👋
 
-<!--
-**Rohitpandey08/Rohitpandey08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Consistency over motivation.
 
-Here are some ideas to get you started:
+- 📊 Data Analyst with hands-on experience in SQL, Python & Power BI
+- 🧠 Focused on turning raw data into clear, actionable insights
+- 🛠️ Building analytics projects across business & operations domains
+- 📈 Strong interest in metrics, dashboards, and decision support
+- 🤝 Open to collaborations & data-driven problem solving
+- 📫 Reach me: [LinkedIn](linkedin.com/in/rohit-pandey-36b632a5) | [Gmail](rohit.taurus08@gmail.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tools & Technologies
+<p>
+  <img src="https://skillicons.dev/icons?i=python,mysql,postgres,github,html,excel" />
+</p>
+
+---
+
+### 📈 GitHub Stats
+![Rohit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rohitpandey08&show_icons=true)
